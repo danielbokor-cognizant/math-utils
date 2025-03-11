@@ -1,6 +1,6 @@
 {
   "name": "@danielbokor/math-utils",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Math utils; DO NOT USE IN PRODUCTION",
   "main": "./index.js",
   "type": "module",
@@ -32,5 +32,8 @@
   },
   "peerDependencies": {
     "winston": "^3.17.0"
+  },
+  "optionalDependencies": {
+    "ora": "^8.2.0"
   }
 }
