@@ -1,0 +1,22 @@
+{
+  "name": "@danielbokor/math-utils",
+  "version": "1.0.0",
+  "description": "Math utils; DO NOT USE IN PRODUCTION",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielbokor-cognizant/math-utils.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "Daniel Bokor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielbokor-cognizant/math-utils/issues"
+  },
+  "homepage": "https://github.com/danielbokor-cognizant/math-utils#readme"
+}
