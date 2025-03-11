@@ -1,6 +1,6 @@
 {
   "name": "@danielbokor/math-utils",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Math utils; DO NOT USE IN PRODUCTION",
   "main": "./index.js",
   "type": "module",
@@ -29,5 +29,8 @@
   "homepage": "https://github.com/danielbokor-cognizant/math-utils#readme",
   "dependencies": {
     "chalk": "^4.1.2"
+  },
+  "peerDependencies": {
+    "winston": "^3.17.0"
   }
 }
